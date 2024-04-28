@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 - yarn 
 - yarn dev
 
-### typescrit & fetch
+## typescrit & fetch
 Si estuviéramos trabajando con archivos tsx en lugar de jsx, tendríamos la capacidad de aprovechar las ventajas del tipado estático ofrecido por TypeScript. Aquí hay algunos cambios que podríamos hacer en el archivo Card.tsx para incluir el tipado y cómo se vería el tipado para el estado product:
 
 - Cambios en la Extensión del Archivo:
